@@ -4,4 +4,3 @@ function fish_greeting
 end
 alias cls="clear"
 alias ls="lsd"
-alias fastfetch="fastfetch -l "/usr/share/fastfetch/presets/Evernight.txt" -c Evernight.jsonc"
