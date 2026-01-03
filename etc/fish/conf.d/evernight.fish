@@ -1,5 +1,5 @@
 function fish_greeting
-    echo "Evernight Vista [Version:43.0]"
+    echo "Evernight Vista [Version:43.1]"
     echo "(C) 2026 EvernightFedora All rights reserved."
 end
 alias cls="clear"
