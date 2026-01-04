@@ -1,3 +1,6 @@
+[ColorEffects:Inactive]
+ChangeSelectionColor=true
+Enable=true
 
 [Colors:Button]
 BackgroundAlternate=53,39,125
@@ -114,7 +117,7 @@ ForegroundVisited=173,142,230
 [General]
 ColorScheme=EvernightDark
 Name=Evernight Vista Dark
-TitlebarIsAccentColored=false
+TitlebarIsAccentColored=true
 shadeSortColumn=true
 
 [KDE]

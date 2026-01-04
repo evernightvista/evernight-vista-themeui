@@ -16,7 +16,7 @@ ColorAmount=0.025
 ColorEffect=2
 ContrastAmount=0.1
 ContrastEffect=2
-Enable=false
+Enable=true
 IntensityAmount=0
 IntensityEffect=0
 
@@ -135,6 +135,7 @@ ForegroundVisited=155,89,182
 [General]
 ColorScheme=EvernightLight
 Name=Evernight Vista Light
+TitlebarIsAccentColored=true
 shadeSortColumn=true
 
 [KDE]
