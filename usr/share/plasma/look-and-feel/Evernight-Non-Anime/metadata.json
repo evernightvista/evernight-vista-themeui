@@ -6,11 +6,11 @@
         "Name": "Evernight Vista Team"
       }
     ],
-    "Description": "Evernight Vista Theme",
-    "Id": "EvernightVista",
+    "Description": "Evernight Vista Non-Anime Theme",
+    "Id": "Evernight-Non-Anime",
     "License": "GPLv2+",
-    "Name": "Evernight Vista",
-    "Name[x-test]": "xxEvernight Vistaxx",
+    "Name": "Evernight Vista Non-Anime",
+    "Name[x-test]": "xxEvernight Vista Non-Animexx",
     "Website": "https://github.com/EvernightFedora"
   }
 }
