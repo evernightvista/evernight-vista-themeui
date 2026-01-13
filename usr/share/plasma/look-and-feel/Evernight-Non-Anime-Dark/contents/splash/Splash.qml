@@ -88,25 +88,34 @@ Image {
 
             anchors {
                 bottom: parent.bottom
-                right: parent.right
+                horizontalCenter: parent.horizontalCenter
                 margins: Kirigami.Units.gridUnit
-            }
-
-            Text {
-                color: "#FFFFFF"
-                anchors.verticalCenter: parent.verticalCenter
-                text: i18ndc("plasma_lookandfeel_org.kde.lookandfeel", "This is the first text the user sees while starting in the splash screen, should be translated as something short, is a form that can be seen on a product. Plasma is the project name so shouldn't be translated.", "Plasma made by KDE")
             }
 
             Image {
                 asynchronous: true
-                source: "images/kde.svgz"
+                source: "images/powered.svgz"
                 sourceSize.height: Kirigami.Units.gridUnit * 2
                 sourceSize.width: Kirigami.Units.gridUnit * 2
             }
 
-        }
+            Column {
+                spacing: Kirigami.Units.smallSpacing
+                anchors.verticalCenter: parent.verticalCenter
 
+                Text {
+                    color: "#FFFFFF"
+                    text: "Powered by"
+                }
+
+                Text {
+                    color: "#EB9535"
+                    text: "Evernight Vista"
+                    font.bold: true
+                    font.pixelSize: Kirigami.Units.fontMetrics.font.pixelSize * 1.3
+                }
+            }
+        }
     }
 
     OpacityAnimator {
