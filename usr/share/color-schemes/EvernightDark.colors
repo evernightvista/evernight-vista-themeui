@@ -1,6 +1,3 @@
-[ColorEffects:Inactive]
-ChangeSelectionColor=true
-Enable=true
 
 [Colors:Button]
 BackgroundAlternate=53,39,125

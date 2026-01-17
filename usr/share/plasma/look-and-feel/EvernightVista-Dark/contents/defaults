@@ -1,5 +1,5 @@
 [kdeglobals][KDE]
-widgetStyle=Klassy
+widgetStyle=Breeze
 
 [kdeglobals][General]
 ColorScheme=EvernightDark
@@ -20,8 +20,8 @@ LayoutName=flipswitch
 LayoutName=flipswitch
 
 [kwinrc][org.kde.kdecoration2]
-library=org.kde.klassy
-theme=Klassy
+library=org.kde.kwin.aurorae.v2
+theme=__aurorae__svg__Evernight-Vista-Window-Dark
 
 [Wallpaper]
 Image=Nova
