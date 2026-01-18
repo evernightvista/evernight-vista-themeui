@@ -20,11 +20,11 @@ LayoutName=flipswitch
 LayoutName=flipswitch
 
 [kwinrc][org.kde.kdecoration2]
-library=org.kde.kwin.aurorae.v2
-theme=__aurorae__svg__Evernight-Vista-Window-Light
+library=breezeenhanced
+theme=Evernight Vista Window
 
 [Wallpaper]
-Image=Pure
+Image=Sail
 
 [ksplashrc][KSplash]
 Theme=Evernight-Non-Anime
