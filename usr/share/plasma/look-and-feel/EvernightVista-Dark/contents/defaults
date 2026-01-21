@@ -20,8 +20,8 @@ LayoutName=flipswitch
 LayoutName=flipswitch
 
 [kwinrc][org.kde.kdecoration2]
-library=breezeenhanced
-theme=Evernight Vista Window
+library=org.kde.klassy
+theme=Klassy
 
 [Wallpaper]
 Image=Nova
