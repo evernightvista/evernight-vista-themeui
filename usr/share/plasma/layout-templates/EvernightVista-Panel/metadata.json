@@ -7,13 +7,13 @@
         "Name": "Evernight Vista Team"
       }
     ],
-    "Description": "Default Breath Panel",
+    "Description": "Evernight Vista Panel",
     "EnabledByDefault": true,
     "Id": "EvernightVista-Panel",
     "License": "LGPLv2+",
     "Name": "Evernight Vista Panel",
-    "Version": "43",
-    "Website": "https://space.bilibili.com/515586861"
+    "Version": "43.1",
+    "Website": "https://github.com/evernightfedora"
   },
   "X-Plasma-ContainmentCategories": ["panel"],
   "X-Plasma-Shell": "plasmashell"

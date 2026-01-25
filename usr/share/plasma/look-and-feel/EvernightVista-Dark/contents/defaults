@@ -5,13 +5,13 @@ widgetStyle=Breeze
 ColorScheme=EvernightDark
 
 [kdeglobals][Icons]
-Theme=Evernight-Exp
+Theme=Evernight-Dark
 
 [plasmarc][Theme]
 name=evernightaero
 
 [kcminputrc][Mouse]
-cursorTheme=EvernightVista
+cursorTheme=ArcFluent
 
 [kwinrc][WindowSwitcher]
 LayoutName=flipswitch

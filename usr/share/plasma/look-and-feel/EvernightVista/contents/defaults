@@ -5,13 +5,13 @@ widgetStyle=Breeze
 ColorScheme=EvernightLight
 
 [kdeglobals][Icons]
-Theme=Evernight-Exp
+Theme=Evernight
 
 [plasmarc][Theme]
 name=evernightaero
 
 [kcminputrc][Mouse]
-cursorTheme=EvernightVista
+cursorTheme=ArcFluent
 
 [kwinrc][WindowSwitcher]
 LayoutName=flipswitch
@@ -24,7 +24,7 @@ library=org.kde.klassy
 theme=Klassy
 
 [Wallpaper]
-Image=Nova
+Image=Hill
 
 [ksplashrc][KSplash]
 Theme=EvernightVista
