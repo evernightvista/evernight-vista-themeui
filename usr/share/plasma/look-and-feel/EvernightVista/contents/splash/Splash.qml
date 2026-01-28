@@ -53,7 +53,7 @@ Image {
             y: parent.height - (parent.height - logo.y) / 2 - height / 2
             anchors.horizontalCenter: parent.horizontalCenter
             asynchronous: true
-            source: "images/busy.svgz"
+            source: "images/busywidget4.svg"
             sourceSize.height: Kirigami.Units.gridUnit * 2
             sourceSize.width: Kirigami.Units.gridUnit * 2
 
@@ -104,12 +104,12 @@ Image {
                 anchors.verticalCenter: parent.verticalCenter
 
                 Text {
-                    color: "#000000"
+                    color: "#FFFFFF"
                     text: "Powered by"
                 }
 
                 Text {
-                    color: "#EB9535"
+                    color: "#72b8dc"
                     text: "Evernight Vista"
                     font.bold: true
                     font.pixelSize: Kirigami.Units.fontMetrics.font.pixelSize * 1.3
