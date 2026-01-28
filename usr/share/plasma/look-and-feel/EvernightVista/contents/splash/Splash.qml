@@ -53,7 +53,7 @@ Image {
             y: parent.height - (parent.height - logo.y) / 2 - height / 2
             anchors.horizontalCenter: parent.horizontalCenter
             asynchronous: true
-            source: "images/busywidget4.svg"
+            source: "images/busy.svgz"
             sourceSize.height: Kirigami.Units.gridUnit * 2
             sourceSize.width: Kirigami.Units.gridUnit * 2
 
