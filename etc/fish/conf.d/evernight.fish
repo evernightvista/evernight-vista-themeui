@@ -1,4 +1,4 @@
-# Copyright (C) 2006-2026 EvernightFedora All rights reserved.
+# Copyright (C) 2006-2026 KairikiFedora All rights reserved.
 function fish_greeting
     set codename (grep -E '^VERSION_CODENAME=' /usr/lib/os-release 2>/dev/null | cut -d '=' -f 2 | tr -d '"')
     if test -z "$codename"
@@ -13,7 +13,7 @@ function fish_greeting
         set arch "unknown"
     end
     echo "Evernight Vista $sysver ($codename) $arch"
-    echo "(C) 2006-2026 EvernightFedora All rights reserved."
+    echo "(C) 2006-2026 KairikiFedora All rights reserved."
 end
 alias cls="clear"
 alias ls="lsd"
