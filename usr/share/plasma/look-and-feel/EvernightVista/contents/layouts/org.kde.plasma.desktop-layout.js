@@ -1,3 +1,23 @@
+var plasma = getApiVersion(1);
+var layout = {
+    "desktops": [
+        {
+            "config": {
+                "/General": {
+                    "arrangement": "1",
+                    "sortDesc": "0",
+                    "sortMode": "-1"
+                }
+            },
+            "wallpaperPlugin": "org.kde.image"
+        }
+    ],
+
+    "serializationFormatVersion": "1"
+}
+;
+
+plasma.loadSerializedLayout(layout);
 var panel = new Panel
 var panelScreen = panel.screen
 
