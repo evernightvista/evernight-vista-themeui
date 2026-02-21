@@ -24,7 +24,7 @@ library=org.kde.klassy
 theme=Klassy
 
 [Wallpaper]
-Image=Hill
+Image=Vista
 
 [ksplashrc][KSplash]
 Theme=EvernightVista
