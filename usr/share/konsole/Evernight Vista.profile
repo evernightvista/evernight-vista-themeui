@@ -1,6 +1,6 @@
 [Appearance]
 ColorScheme=Evernight Vista
-Font=JetBrainsMono Nerd Font Mono,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+Font=Maple Mono NF,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 TabColor=0,0,0,0
 
 [Cursor Options]
