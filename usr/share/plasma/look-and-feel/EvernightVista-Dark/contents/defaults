@@ -8,7 +8,7 @@ ColorScheme=EvernightDark
 Theme=Evernight-Dark
 
 [plasmarc][Theme]
-name=evernightaero
+name=default
 
 [kcminputrc][Mouse]
 cursorTheme=ArcFluent
