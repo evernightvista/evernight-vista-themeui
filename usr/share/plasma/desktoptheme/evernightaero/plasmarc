@@ -3,3 +3,5 @@ enabled=true
 contrast=0.2
 saturation=10
 
+[AdaptiveTransparency]
+enabled=true
