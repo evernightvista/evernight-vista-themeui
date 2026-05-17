@@ -6,9 +6,5 @@ Name=Evernight Vista Aero
 X-KDE-PluginInfo-Author=Evernight Vista Team
 X-KDE-PluginInfo-License=LGPL
 X-KDE-PluginInfo-Name=evernightaero
-<<<<<<< HEAD
-X-KDE-PluginInfo-Version=43.1.0
-=======
 X-KDE-PluginInfo-Version=44.0.1
->>>>>>> ce0b517 (KB2605001:Update Plasma Appearance.)
 X-Plasma-API=5.0
