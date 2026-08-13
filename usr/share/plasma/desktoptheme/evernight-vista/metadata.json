@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "13278297951@sina.cn",
+                "Name": "Evernight Vista Team"
+            }
+        ],
+        "Category": "Plasma 6.0 theme",
+        "Description": "Evernight Vista Aero UI",
+        "EnabledByDefault": true,
+        "Id": "evernight-vista",
+        "License": "GPL-3.0",
+        "Name": "Evernight Vista Aero",
+        "Version": "45.0.0",
+        "Website": "https://github.com/evernightvista"
+    },
+    "X-Plasma-API": "5.0"
+}

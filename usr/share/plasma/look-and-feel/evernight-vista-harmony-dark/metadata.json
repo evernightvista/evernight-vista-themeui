@@ -1,0 +1,16 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Authors": [
+      {
+        "Name": "Evernight Vista Team"
+      }
+    ],
+    "Description": "Evernight Vista Harmony Dark Theme",
+    "Id": "evernight-vista-harmony-dark",
+    "License": "GPLv2+",
+    "Name": "Evernight Vista Harmony Dark",
+    "Name[x-test]": "xxEvernight Vista Harmony Darkxx",
+    "Website": "https://github.com/EvernightFedora"
+  }
+}

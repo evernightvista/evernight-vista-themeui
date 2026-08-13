@@ -1,0 +1,20 @@
+{
+  "KPackageStructure": "Plasma/LayoutTemplate",
+  "KPlugin": {
+    "Authors": [
+      {
+        "Email": "13278297951@sina.cn",
+        "Name": "Evernight Vista Team"
+      }
+    ],
+    "Description": "Evernight Vista Panel",
+    "EnabledByDefault": true,
+    "Id": "evernight-vista-panel",
+    "License": "LGPLv2+",
+    "Name": "Evernight Vista Panel",
+    "Version": "45.0.0",
+    "Website": "https://github.com/evernightfedora"
+  },
+  "X-Plasma-ContainmentCategories": ["panel"],
+  "X-Plasma-Shell": "plasmashell"
+}

@@ -1,0 +1,150 @@
+[ColorEffects:Disabled]
+Color=56,56,56
+ColorAmount=0
+ColorEffect=0
+ContrastAmount=0.65
+ContrastEffect=1
+IntensityAmount=0.1
+IntensityEffect=2
+
+[ColorEffects:Inactive]
+ChangeSelectionColor=true
+Color=112,111,110
+ColorAmount=0.9500000000000001
+ColorEffect=0
+ContrastAmount=0.1
+ContrastEffect=0
+Enable=true
+IntensityAmount=0
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate=154,74,80
+BackgroundNormal=47,52,58
+DecorationFocus=201,84,90
+DecorationHover=201,84,90
+ForegroundActive=201,84,90
+ForegroundInactive=160,160,160
+ForegroundLink=233,192,193
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=255,102,102
+
+[Colors:Complementary]
+BackgroundAlternate=38,41,46
+BackgroundNormal=38,41,46
+DecorationFocus=201,84,90
+DecorationHover=201,84,90
+ForegroundActive=201,84,90
+ForegroundInactive=161,169,177
+ForegroundLink=233,192,193
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=155,89,182
+
+[Colors:Selection]
+BackgroundAlternate=152,71,76
+BackgroundNormal=152,71,76
+DecorationFocus=201,84,90
+DecorationHover=201,84,90
+ForegroundActive=201,84,90
+ForegroundInactive=255,255,255
+ForegroundLink=147,61,66
+ForegroundNegative=176,55,69
+ForegroundNeutral=198,92,0
+ForegroundNormal=255,255,255
+ForegroundPositive=23,104,57
+ForegroundVisited=255,102,102
+
+[Colors:Tooltip]
+BackgroundAlternate=42,46,50
+BackgroundNormal=46,50,56
+DecorationFocus=201,84,90
+DecorationHover=201,84,90
+ForegroundActive=201,84,90
+ForegroundInactive=160,160,160
+ForegroundLink=233,192,193
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=255,102,102
+
+[Colors:View]
+BackgroundAlternate=38,41,46,00
+BackgroundNormal=38,41,46
+DecorationFocus=201,84,90
+DecorationHover=201,84,90
+ForegroundActive=201,84,90
+ForegroundInactive=160,160,160
+ForegroundLink=233,192,193
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=255,102,102
+
+[Colors:Window]
+BackgroundAlternate=38,41,46
+BackgroundNormal=38,41,46
+DecorationFocus=201,84,90
+DecorationHover=201,84,90
+ForegroundActive=201,84,90
+ForegroundInactive=160,160,160
+ForegroundLink=233,192,193
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=255,102,102
+
+[General]
+ColorScheme=EvernightDarkClassic
+Name=Evernight Vista Dark Classic
+Name[az]=Evernight Vista Tünd Klassik
+Name[bg]=Evernight Vista Тъмен Класически
+Name[bs]=Evernight Vista tamna klasična
+Name[cs]=Evernight Vista Tmavé Klasické
+Name[da]=Evernight Vista Mørk Klassisk
+Name[de]=Evernight Vista Dunkel Klassisch
+Name[el]=Evernight Vista σκούρο κλασικό
+Name[en_GB]=Evernight Vista Dark Classic
+Name[eo]=Evernight Vista Malhela Klasika
+Name[et]=Evernight Vista tume klassikaline
+Name[eu]=Evernight Vista iluna klasikoa
+Name[fi]=Evernight Vista tumma klassinen
+Name[hu]=Evernight Vista sötét klasszikus
+Name[id]=Evernight Vista Gelap Klasik
+Name[is]=Evernight Vista dökkt klassískt
+Name[ja]=Evernight Vista ダーククラシック
+Name[ka]=Evernight Vista მუქი კლასიკური
+Name[ko]=Evernight Vista 어두운 클래식
+Name[lt]=Evernight Vista tamsus klasikinis
+Name[lv]=Evernight Vista tumšais klasiskais
+Name[nb]=Evernight Vista mørk klassisk
+Name[nl]=Evernight Vista Donker Klassiek
+Name[nn]=Evernight Vista mørk klassisk
+Name[pt_BR]=Evernight Vista Escuro Clássico
+Name[ru]=Evernight Vista тёмный классический
+Name[sv]=Evernight Vista mörk klassisk
+Name[uk]=Evernight Vista темний класичний
+Name[zh_CN]=Evernight Vista 暗色经典
+Name[zh_TW]=Evernight Vista 暗色經典
+TitlebarIsAccentColored=true
+shadeSortColumn=true
+
+[KDE]
+contrast=4
+frameContrast=0.2
+
+[WM]
+activeBackground=152,71,76
+activeBlend=38,41,46
+activeForeground=255,255,255
+inactiveBackground=38,41,46
+inactiveBlend=38,41,46
+inactiveForeground=177,177,177

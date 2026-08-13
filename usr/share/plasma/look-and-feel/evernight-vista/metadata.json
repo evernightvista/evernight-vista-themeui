@@ -1,0 +1,16 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Authors": [
+      {
+        "Name": "Evernight Vista Team"
+      }
+    ],
+    "Description": "Evernight Vista Theme",
+    "Id": "evernight-vista",
+    "License": "GPLv2+",
+    "Name": "Evernight Vista",
+    "Name[x-test]": "xxEvernight Vistaxx",
+    "Website": "https://github.com/EvernightFedora"
+  }
+}
