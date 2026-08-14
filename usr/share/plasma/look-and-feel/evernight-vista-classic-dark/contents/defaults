@@ -11,7 +11,7 @@ Theme=Evernight-Dark
 name=evernight-vista
 
 [kcminputrc][Mouse]
-cursorTheme=ArcFluent
+cursorTheme=bibata-material-lilac
 
 [kwinrc][WindowSwitcher]
 LayoutName=flipswitch
