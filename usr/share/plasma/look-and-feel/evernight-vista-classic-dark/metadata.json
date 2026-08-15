@@ -9,8 +9,8 @@
     "Description": "Evernight Vista Classic Dark Theme",
     "Id": "evernight-vista-classic-dark",
     "License": "GPLv2+",
-    "Name": "Evernight Vista Dark",
-    "Name[x-test]": "xxEvernight Vista Darkxx",
+    "Name": "Evernight Vista Classic Dark",
+    "Name[x-test]": "xxEvernight Vista Classic Darkxx",
     "Website": "https://github.com/EvernightFedora"
   }
 }
