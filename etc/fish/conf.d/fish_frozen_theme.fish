@@ -10,9 +10,9 @@
 
 set --global fish_color_autosuggestion 555 brblack
 set --global fish_color_cancel -r
-set --global fish_color_command '#793faf'
+set --global fish_color_command '#92e796'
 set --global fish_color_comment red
-set --global fish_color_cwd '#793faf'
+set --global fish_color_cwd '#92e796'
 set --global fish_color_cwd_root red
 set --global fish_color_end green
 set --global fish_color_error brred
@@ -28,7 +28,7 @@ set --global fish_color_redirection cyan --bold
 set --global fish_color_search_match white --background=brblack
 set --global fish_color_selection white --bold --background=brblack
 set --global fish_color_status red
-set --global fish_color_user '#793faf'
+set --global fish_color_user '#92e796'
 set --global fish_color_valid_path --underline
 set --global fish_pager_color_completion normal
 set --global fish_pager_color_description B3A06D yellow -i
