@@ -13,6 +13,7 @@ Parent=FALLBACK/
 
 [Scrolling]
 HighlightScrolledLines=false
+HistoryMode=2
 ScrollBarPosition=2
 
 [Terminal Features]
