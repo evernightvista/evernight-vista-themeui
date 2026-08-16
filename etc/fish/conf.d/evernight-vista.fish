@@ -5,7 +5,7 @@ function fish_greeting
         set codename "unknown"
     end
 
-    set sysver (grep -E '^VERSION=' /usr/lib/os-release 2>/dev/null | cut -d '=' -f 2 | tr -d '"')
+    set sysver (sed -n 's/.*release \([0-9][0-9.]*\).*/\1/p' /usr/lib/fedora-release 2>/dev/null)
     if test -z "$sysver"
         set sysver "unknown"
     end
