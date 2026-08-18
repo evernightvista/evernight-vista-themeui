@@ -46,6 +46,7 @@ kickoff.writeConfig("favorites", ["preferred://browser", "systemsettings.desktop
 
 
 //panel.addWidget("org.kde.plasma.showActivityManager")
+panel.addWidget("com.mcc45tr.filesearch")
 let taskBar = panel.addWidget("org.kde.plasma.icontasks")
 taskBar.writeConfig("launchers",["preferred://browser","preferred://filemanager","applications:vlc.desktop"])
 
