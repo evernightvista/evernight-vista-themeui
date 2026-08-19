@@ -58,6 +58,8 @@ function ver
     echo $greeting
 end
 
+source (/usr/bin/starship init fish --print-full-init | psub)
+
 alias cls="clear"
 alias ls="lsd"
 alias cmd="fish"
