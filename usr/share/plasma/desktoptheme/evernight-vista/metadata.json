@@ -3,17 +3,17 @@
         "Authors": [
             {
                 "Email": "13278297951@sina.cn",
-                "Name": "Evernight Vista Team"
+                "Name": "KairikiFedora"
             }
         ],
-        "Category": "Plasma 6.0 theme",
-        "Description": "Evernight Vista Aero UI",
+        "Category": "",
+        "Description": "A modification of Sumac Neutral with hacks the creator likes.",
         "EnabledByDefault": true,
         "Id": "evernight-vista",
-        "License": "GPL-3.0",
-        "Name": "Evernight Vista Aero",
+        "License": "GPLv3",
+        "Name": "Miryu Design",
         "Version": "45.0.0",
-        "Website": "https://github.com/evernightvista"
+        "Website": "https://github.com/evernightvista/evernight-vista-themeui"
     },
     "X-Plasma-API": "5.0"
 }

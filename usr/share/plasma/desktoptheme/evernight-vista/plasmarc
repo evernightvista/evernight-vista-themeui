@@ -1,14 +1,9 @@
-[Wallpaper]
-defaultWallpaperTheme=Nova
-defaultFileSuffix=.jxl
-defaultWidth=3840
-defaultHeight=2160
-
 [ContrastEffect]
-enabled=false
-contrast=0.2
-intensity=1.4
-saturation=10
+enabled=true
+# neutral's presets
+contrast=0.8
+intensity=1.2
+saturation=1.4
 
 [AdaptiveTransparency]
-enabled=false
+enabled=true
