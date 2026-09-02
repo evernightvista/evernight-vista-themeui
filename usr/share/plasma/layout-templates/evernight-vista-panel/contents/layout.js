@@ -29,6 +29,7 @@ if (freeEdges["bottom"] == true) {
 // even numbers
 panel.height = 2 * Math.floor(gridUnit * 2.5 / 2)
 panel.floating = true;
+panel.opacity = "translucent";
 
 // Restrict horizontal panel to a maximum size of a 21:9 monitor
 const maximumAspectRatio = 21/9;
