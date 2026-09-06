@@ -45,12 +45,13 @@ if (panel.formFactor === "horizontal") {
 }
 
 panel.addWidget("org.kde.plasma.panelspacer")
-var kickoff = panel.addWidget("org.kde.plasma.kickoff")
+var kickoff = panel.addWidget("org.kde.plasma.kickoff.skyler")
 panel.addWidget("com.mcc45tr.filesearch")
 
 //panel.addWidget("org.kde.plasma.showActivityManager")
-let taskBar = panel.addWidget("org.kde.plasma.icontasks")
+let taskBar = panel.addWidget("org.kde.plasma.icontasks.skyler")
 taskBar.writeConfig("launchers",["preferred://browser","preferred://filemanager","applications:vlc.desktop"])
+taskBar.writeConfig("hoverEffect",false)
 
 panel.addWidget("org.kde.plasma.panelspacer")
 panel.addWidget("org.kde.plasma.marginsseparator")

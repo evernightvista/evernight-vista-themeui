@@ -42,15 +42,16 @@ if (geo.width > maximumWidth) {
     panel.maximumLength = maximumWidth;
 }
 
-var kickoff = panel.addWidget("org.kde.plasma.kickoff")
+var kickoff = panel.addWidget("org.kde.plasma.kickoff.skyler")
 kickoff.writeConfig("favorites", ["preferred://browser", "systemsettings.desktop", "org.kde.dolphin.desktop", "org.kde.konsole.desktop", "vlc.desktop"])
 
 panel.addWidget("com.mcc45tr.filesearch")
 panel.addWidget("org.kde.plasma.panelspacer")
 
 //panel.addWidget("org.kde.plasma.showActivityManager")
-let taskBar = panel.addWidget("org.kde.plasma.icontasks")
+let taskBar = panel.addWidget("org.kde.plasma.icontasks.skyler")
 taskBar.writeConfig("launchers",["preferred://browser","preferred://filemanager","applications:vlc.desktop"])
+taskBar.writeConfig("hoverEffect",false)
 
 panel.addWidget("org.kde.plasma.panelspacer")
 panel.addWidget("org.kde.plasma.marginsseparator")
