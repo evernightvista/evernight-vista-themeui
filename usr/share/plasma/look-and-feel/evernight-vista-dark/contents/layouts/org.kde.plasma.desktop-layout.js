@@ -27,7 +27,7 @@ panel.location = "bottom";
 // Round down to next highest even number since the Panel size widget only displays
 // even numbers
 panel.height = 2 * Math.floor(gridUnit * 2.5 / 2)
-panel.floating = true;
+panel.floating = false;
 panel.opacity = "translucent";
 
 // Restrict horizontal panel to a maximum size of a 21:9 monitor
