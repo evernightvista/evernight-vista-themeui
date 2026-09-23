@@ -7,7 +7,7 @@
             }
         ],
         "Category": "",
-        "Description": "A modification of Sumac Neutral with hacks the creator likes.",
+        "Description": "A modification of Sumac Neutral with hacks the creator likes.Based on Windows Aero and macOS Liquid Glass.",
         "EnabledByDefault": true,
         "Id": "evernight-vista",
         "License": "GPLv3",
