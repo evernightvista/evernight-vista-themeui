@@ -52,7 +52,6 @@ let taskBar = panel.addWidget("org.kde.plasma.icontasks.skyler")
 taskBar.writeConfig("launchers",["preferred://browser","preferred://filemanager","applications:vlc.desktop"])
 taskBar.writeConfig("hoverEffect",false)
 
-panel.addWidget("org.kde.plasma.marginsseparator")
 panel.addWidget("org.kde.plasma.pager")
 
 panel.addWidget("org.kde.plasma.systemtray")

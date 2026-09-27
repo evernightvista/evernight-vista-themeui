@@ -54,7 +54,6 @@ taskBar.writeConfig("launchers",["preferred://browser","preferred://filemanager"
 taskBar.writeConfig("hoverEffect",false)
 
 panel.addWidget("org.kde.plasma.panelspacer")
-panel.addWidget("org.kde.plasma.marginsseparator")
 
 panel.addWidget("org.kde.plasma.systemtray")
 let digitalClock = panel.addWidget("org.kde.plasma.digitalclock")
