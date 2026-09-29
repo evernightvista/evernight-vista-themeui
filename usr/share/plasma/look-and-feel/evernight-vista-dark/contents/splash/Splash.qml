@@ -109,7 +109,7 @@ Image {
                 }
 
                 Text {
-                    color: "#a272c8"
+                    color: "#4042c9"
                     text: "Evernight Vista"
                     font.bold: true
                     font.pixelSize: Kirigami.Units.fontMetrics.font.pixelSize * 1.3
