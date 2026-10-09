@@ -1,0 +1,41 @@
+/* ========================================================
+ *  1. 基础轮廓与圆角（亮色模式默认）
+ *  ======================================================== */
+window,
+window.background,
+.csd decoration,
+.csd {
+    border-radius: 6px;
+    /* 明亮模式：半透明黑色边框 */
+    border: 1px solid rgba(0, 0, 0, 0.18);
+}
+
+/* ========================================================
+ *  2. 暗色模式：仅覆盖边框颜色
+ *  ======================================================== */
+@media (prefers-color-scheme: dark) {
+    window,
+    window.background,
+    .csd decoration,
+    .csd {
+        /* 暗色模式：半透明白色边框/高亮线 */
+        border-color: rgba(255, 255, 255, 0.18);
+    }
+}
+
+/* ========================================================
+ *  3. 状态控制：平铺或最大化时自动重置，避免错位
+ *  ======================================================== */
+window.maximized,
+window.fullscreen,
+window.tiled,
+window.tiled-top,
+window.tiled-left,
+window.tiled-right,
+window.tiled-bottom {
+    border: none;
+    border-radius: 0;
+}
+
+
+

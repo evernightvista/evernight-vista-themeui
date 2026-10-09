@@ -55,7 +55,7 @@ taskBar.writeConfig("hoverEffect",false)
 
 panel.addWidget("org.kde.plasma.panelspacer")
 
-panel.addWidget("org.kde.plasma.systemtray")
+panel.addWidget("org.kde.windowsmodern.systemtray")
 let digitalClock = panel.addWidget("org.kde.plasma.digitalclock")
 digitalClock.writeConfig("enabledCalendarPlugins", "holidaysevents")
 digitalClock.writeConfig("showSeconds", 2)
