@@ -27,7 +27,6 @@ function fish_greeting
 
     echo $greeting
     echo "(C) 2027 Evernight Vista Team All rights reserved."
-    echo
 end
 
 function ver
