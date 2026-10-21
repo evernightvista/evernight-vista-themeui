@@ -42,7 +42,7 @@ if (geo.width > maximumWidth) {
     panel.maximumLength = maximumWidth;
 }
 
-var kickoff = panel.addWidget("org.kde.plasma.kickoff.skyler")
+var kickoff = panel.addWidget("org.miryugaming.start")
 kickoff.writeConfig("favorites", ["preferred://browser", "systemsettings.desktop", "org.kde.dolphin.desktop", "org.kde.konsole.desktop", "vlc.desktop"])
 
 panel.addWidget("com.mcc45tr.filesearch")
