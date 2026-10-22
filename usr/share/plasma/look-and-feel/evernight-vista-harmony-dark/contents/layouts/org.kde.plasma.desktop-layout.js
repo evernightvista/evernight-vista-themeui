@@ -45,7 +45,7 @@ if (geo.width > maximumWidth) {
 var kickoff = panel.addWidget("org.miryugaming.start")
 kickoff.writeConfig("favorites", ["preferred://browser", "systemsettings.desktop", "org.kde.dolphin.desktop", "org.kde.konsole.desktop", "vlc.desktop"])
 
-panel.addWidget("com.mcc45tr.filesearch")
+panel.addWidget("org.miryugaming.search")
 panel.addWidget("org.kde.plasma.panelspacer")
 
 //panel.addWidget("org.kde.plasma.showActivityManager")

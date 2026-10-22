@@ -46,7 +46,7 @@ if (panel.formFactor === "horizontal") {
 
 panel.addWidget("org.kde.plasma.panelspacer")
 var kickoff = panel.addWidget("org.miryugaming.start")
-panel.addWidget("com.mcc45tr.filesearch")
+panel.addWidget("org.miryugaming.search")
 
 //panel.addWidget("org.kde.plasma.showActivityManager")
 let taskBar = panel.addWidget("org.kde.plasma.icontasks.skyler")
