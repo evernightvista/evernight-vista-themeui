@@ -45,7 +45,7 @@ if (panel.formFactor === "horizontal") {
 }
 
 panel.addWidget("org.kde.plasma.panelspacer")
-var kickoff = panel.addWidget("org.miryugaming.start")
+var kickoff = panel.addWidget("org.miryugaming.startmenu")
 panel.addWidget("org.miryugaming.search")
 
 //panel.addWidget("org.kde.plasma.showActivityManager")

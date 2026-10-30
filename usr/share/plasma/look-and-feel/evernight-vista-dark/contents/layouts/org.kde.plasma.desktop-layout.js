@@ -43,7 +43,7 @@ if (geo.width > maximumWidth) {
 }
 
 panel.addWidget("org.kde.plasma.panelspacer")
-var kickoff = panel.addWidget("org.miryugaming.start")
+var kickoff = panel.addWidget("org.miryugaming.startmenu")
 kickoff.writeConfig("favorites", ["preferred://browser", "systemsettings.desktop", "org.kde.dolphin.desktop", "org.kde.konsole.desktop", "vlc.desktop"])
 
 

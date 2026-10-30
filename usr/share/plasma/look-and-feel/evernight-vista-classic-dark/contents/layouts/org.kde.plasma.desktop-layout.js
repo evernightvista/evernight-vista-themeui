@@ -42,7 +42,7 @@ if (geo.width > maximumWidth) {
     panel.maximumLength = maximumWidth;
 }
 
-var kickoff = panel.addWidget("org.miryugaming.start")
+var kickoff = panel.addWidget("org.miryugaming.startmenu")
 kickoff.writeConfig("favorites", ["preferred://browser", "systemsettings.desktop", "org.kde.dolphin.desktop", "org.kde.konsole.desktop", "vlc.desktop"])
 
 
