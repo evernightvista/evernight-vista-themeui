@@ -44,7 +44,6 @@ if (panel.formFactor === "horizontal") {
     }
 }
 
-panel.addWidget("org.kde.plasma.panelspacer")
 var kickoff = panel.addWidget("org.miryugaming.startmenu")
 panel.addWidget("org.miryugaming.search")
 
@@ -53,8 +52,7 @@ let taskBar = panel.addWidget("org.kde.plasma.icontasks.skyler")
 taskBar.writeConfig("launchers",["preferred://browser","preferred://filemanager","applications:vlc.desktop"])
 taskBar.writeConfig("hoverEffect",false)
 
-panel.addWidget("org.kde.plasma.panelspacer")
-//panel.addWidget("org.kde.plasma.pager")
+panel.addWidget("org.kde.plasma.pager")
 
 panel.addWidget("org.kde.windowsmodern.systemtray")
 let digitalClock = panel.addWidget("org.kde.plasma.digitalclock")

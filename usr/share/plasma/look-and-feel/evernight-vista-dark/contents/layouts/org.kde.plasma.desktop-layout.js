@@ -42,7 +42,6 @@ if (geo.width > maximumWidth) {
     panel.maximumLength = maximumWidth;
 }
 
-panel.addWidget("org.kde.plasma.panelspacer")
 var kickoff = panel.addWidget("org.miryugaming.startmenu")
 kickoff.writeConfig("favorites", ["preferred://browser", "systemsettings.desktop", "org.kde.dolphin.desktop", "org.kde.konsole.desktop", "vlc.desktop"])
 
@@ -53,7 +52,7 @@ let taskBar = panel.addWidget("org.kde.plasma.icontasks.skyler")
 taskBar.writeConfig("launchers",["preferred://browser","preferred://filemanager","applications:vlc.desktop"])
 taskBar.writeConfig("hoverEffect",false)
 
-panel.addWidget("org.kde.plasma.panelspacer")
+panel.addWidget("org.kde.plasma.pager")
 
 panel.addWidget("org.kde.windowsmodern.systemtray")
 let digitalClock = panel.addWidget("org.kde.plasma.digitalclock")

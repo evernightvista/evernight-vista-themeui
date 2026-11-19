@@ -6,11 +6,11 @@
         "Name": "Evernight Vista Team"
       }
     ],
-    "Description": "Evernight Vista Classic Dark Theme",
-    "Id": "evernight-vista-classic-dark",
+    "Description": "Evernight Vista Modern Dark Theme",
+    "Id": "evernight-vista-modern-dark",
     "License": "GPLv2+",
-    "Name": "Evernight Vista Classic Dark",
-    "Name[x-test]": "xxEvernight Vista Classic Darkxx",
+    "Name": "Evernight Vista Modern Dark",
+    "Name[x-test]": "xxEvernight Vista Modern Darkxx",
     "Website": "https://github.com/EvernightFedora"
   }
 }
